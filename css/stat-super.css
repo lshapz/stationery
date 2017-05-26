@@ -26,6 +26,10 @@ a {
 	clear: both;
 }
 
+dialog {
+	position: relative;
+}
+
 #stat-wrapper-1,
 #stat-wrapper-2 {
 	width: 864px;
